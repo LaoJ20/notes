@@ -1,2 +1,1 @@
-# notes123
-# java笔记
+# notes
